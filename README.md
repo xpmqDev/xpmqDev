@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xpmqDev | 16
-- 👀 I’m interested in gaming and coding as well
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on with anyone!
+- I’m interested in gaming and coding as well
+- I’m currently learning C#
+- I’m looking to collaborate on with anyone!
 - 📫 How to reach me ... Discord:xpmq#7076
 
 <!---
